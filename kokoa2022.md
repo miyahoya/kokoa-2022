@@ -1,3 +1,3 @@
 # kokoa 2022 update
 
-css got much better
+html n css got so much better
